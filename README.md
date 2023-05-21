@@ -2,6 +2,10 @@
 
 Esta es una aplicación de lectura de códigos QR que te permite escanear y decodificar códigos QR utilizando la cámara de tu dispositivo. La aplicación está desarrollada en C# utilizando la biblioteca ZXing.
 
+<p align="center">
+  <img src="screenshots/preview1.png" alt="Vista previa 1">
+</p>
+
 ## Características
 
 - Escaneo y decodificación de códigos QR en tiempo real.
