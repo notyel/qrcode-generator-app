@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1Da5Kd77r+Ej7Mi1rdILsh91Z2hzFQY3DWTexQDDQSdfRCASfQooEK//83jfJpwM6y2hfHgbKN8cl2SQbcXuw==",
+  "success": true,
+  "projectFilePath": "D:\\github\\ejm2\\QRCodeReader\\QRCodeReader\\QRCodeReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amd\\.nuget\\packages\\zxing.net\\0.14.0.1\\zxing.net.0.14.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"ZXing.Net 0.14.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "ZXing.Net",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

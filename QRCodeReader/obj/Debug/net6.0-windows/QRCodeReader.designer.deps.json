@@ -1,0 +1,32 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZXing.Net/0.14.0.1": {
+        "runtime": {
+          "lib/net40/zxing.dll": {
+            "assemblyVersion": "0.14.0.0",
+            "fileVersion": "0.14.0.0"
+          },
+          "lib/net40/zxing.presentation.dll": {
+            "assemblyVersion": "0.14.0.0",
+            "fileVersion": "0.14.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZXing.Net/0.14.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XnYnyNARozhoRJwdioHTcsJFMsIbYj/wwecL9sGq0mhmEA7LbElzLiVLUMuZRFbrHiElGbVCjD2GbeQG3tzZ7Q==",
+      "path": "zxing.net/0.14.0.1",
+      "hashPath": "zxing.net.0.14.0.1.nupkg.sha512"
+    }
+  }
+}

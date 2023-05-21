@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\github\\ejm2\\QRCodeReader\\QRCodeReader\\QRCodeReader.csproj": {}
+  },
+  "projects": {
+    "D:\\github\\ejm2\\QRCodeReader\\QRCodeReader\\QRCodeReader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\github\\ejm2\\QRCodeReader\\QRCodeReader\\QRCodeReader.csproj",
+        "projectName": "QRCodeReader",
+        "projectPath": "D:\\github\\ejm2\\QRCodeReader\\QRCodeReader\\QRCodeReader.csproj",
+        "packagesPath": "C:\\Users\\amd\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\ejm2\\QRCodeReader\\QRCodeReader\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\amd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.14.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
