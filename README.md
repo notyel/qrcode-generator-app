@@ -16,7 +16,7 @@ Esta es una aplicación de lectura de códigos QR que te permite escanear y deco
 ## Requisitos del sistema
 
 - Sistema operativo: Windows 10 o superior.
-- .NET 6.0 SDK instalado.
+- .NET 6.0+ SDK instalado.
 
 ## Instrucciones de uso
 
