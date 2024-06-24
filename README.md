@@ -33,5 +33,5 @@ Esta es una aplicación de lectura de códigos QR que te permite escanear y deco
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
+**Este proyecto está bajo la Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
 
