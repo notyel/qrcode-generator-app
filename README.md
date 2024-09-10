@@ -20,7 +20,7 @@ Esta es una aplicación de lectura de códigos QR que te permite escanear y deco
 
 ## Instrucciones de uso
 
-1. Ejecuta la aplicación "QR Code Reader".
+1. Ejecuta la aplicación **"QR Code Reader".**
 2. Haz clic en el botón "Seleccionar archivo" para elegir un archivo de imagen que contenga un código QR.
 3. Espera a que la aplicación escanee y decodifique el código QR.
 4. Si se detecta un enlace web en el código QR, el contenido decodificado se mostrará como un enlace azul. Haz clic en el enlace para abrirlo en tu navegador web.
